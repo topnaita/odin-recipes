@@ -1,0 +1,17 @@
+.Menubar {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  background-color: blanchedalmond;
+  color: white;
+  padding: 10px;
+}
+li {
+  margin: 5px;
+}
+
+.Menubar a:hover {
+  background-color: beige;
+  color: black;
+  font-size: 18px;
+}
